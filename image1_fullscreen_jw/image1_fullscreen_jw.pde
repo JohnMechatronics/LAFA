@@ -1,6 +1,5 @@
 /**
- * Loads a "flower.jpg" image drom a folder called data in the to specify the transparency 
- * and displays it to screen
+ * Loads a "flower.jpg" image from a folder called data resizes the image and displays it at full screen 
  */
 
 PImage img; //variable to hold the image
